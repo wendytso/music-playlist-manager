@@ -1,0 +1,15 @@
+{
+    "songs": [
+        {
+            "artist": "Rihanna",
+            "genre": "Pop",
+            "title": "Umbrella"
+        },
+        {
+            "artist": "Red Velvet",
+            "genre": "Korean Pop",
+            "title": "Russian Roulette"
+        }
+    ],
+    "playlistName": "My playlist"
+}
